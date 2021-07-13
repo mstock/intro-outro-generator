@@ -143,10 +143,10 @@ def debug():
 		'../intro.ts',
 		introFrames,
 		{
-			'$id': 904,
-			'$title': 'Was ist Open Source, wie funktioniert das?',
-			'$subtitle': 'Die Organisation der Open Geo- und GIS-Welt. Worauf man achten sollte.',
-			'$personnames': 'Arnulf Christl, Astrid Emde, Dominik Helle, Till Adams'
+			'$id': 10069,
+			'$title': 'Community growth: What we learned about improving the membership and diversity of OSM Kenya through the community impact microgrants.',
+			'$subtitle': '',
+			'$personnames': 'Laura Mugeha'
 		}
 	)
 

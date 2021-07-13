@@ -98,9 +98,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.96875"
-     inkscape:cx="1584.8655"
-     inkscape:cy="916.2608"
+     inkscape:zoom="0.4921875"
+     inkscape:cx="960"
+     inkscape:cy="540"
      inkscape:document-units="px"
      inkscape:current-layer="layer_background"
      showgrid="false"
@@ -180,50 +180,50 @@
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2021/artwork/logo_sotm-bg.svg"
        xlink:href="logo_sotm-bg.svg"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="1920"
-       height="1920"
-       id="image12927"
+       y="56"
        x="0"
-       y="56" />
+       id="image12927"
+       height="1920"
+       width="1920"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2021/artwork/logo_sotm-bg2.svg"
        xlink:href="logo_sotm-bg2.svg"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="1920"
-       height="1920"
-       id="image15772"
-       x="0"
+       clip-path="url(#clipPath1813)"
        y="56"
-       clip-path="url(#clipPath1813)" />
+       x="0"
+       id="image15772"
+       height="1920"
+       width="1920"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
     <rect
        id="rect_banderole_1"
        width="1920"
-       height="310"
+       height="385"
        x="0"
-       y="1211"
-       ry="0.0084510781"
-       style="fill:#333333;fill-opacity:0.701961" />
+       y="1136"
+       ry="0.010495693"
+       style="fill:#333333;fill-opacity:0.701961;stroke-width:1.11442" />
     <g
        id="text1"
        style="opacity:0.778"
-       transform="matrix(1.3478261,0,0,1.3478261,6.831824,163.18971)">
+       transform="matrix(1.3478261,0,0,1.3478261,6.831824,86.189709)">
       <text
          id="text2992"
-         y="916.81189"
+         y="913.10217"
          x="75.964493"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan3002"
-           y="916.81189"
+           y="913.10217"
            x="75.964493"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:90%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#c2ced2;fill-opacity:1;stroke:none" /><tspan
            id="tspan857"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:47.4839px;line-height:90%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c2ced2;fill-opacity:1;stroke:none"
-           y="959.64557"
+           y="955.93585"
            x="75.964493"
            sodipodi:role="line">July  9-11, 2021</tspan></text>
       <text
@@ -365,11 +365,11 @@
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2021/artwork/sotm_2021-logo-small.png"
        xlink:href="sotm_2021-logo-small.png"
-       width="308"
-       height="326"
-       preserveAspectRatio="none"
-       id="image17711"
+       y="480"
        x="1608"
-       y="480" />
+       id="image17711"
+       preserveAspectRatio="none"
+       height="326"
+       width="308" />
   </g>
 </svg>

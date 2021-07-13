@@ -156,32 +156,32 @@
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2021/artwork/logo_sotm-bg.svg"
        xlink:href="logo_sotm-bg.svg"
-       y="56"
-       x="0"
-       id="image1888"
-       height="1920"
-       width="1920"
+       preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       preserveAspectRatio="none" />
+       width="1920"
+       height="1920"
+       id="image1888"
+       x="0"
+       y="56" />
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2021/artwork/logo_sotm-bg2.svg"
        xlink:href="logo_sotm-bg2.svg"
-       clip-path="url(#clipPath8464)"
-       y="56"
-       x="0"
-       id="image4733"
-       height="1920"
-       width="1920"
+       preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       preserveAspectRatio="none" />
+       width="1920"
+       height="1920"
+       id="image4733"
+       x="0"
+       y="56"
+       clip-path="url(#clipPath8464)" />
     <rect
        id="rect_banderole_1"
        width="1920"
-       height="310"
+       height="385"
        x="-8.2519534e-07"
-       y="1211"
-       ry="0.0084510781"
-       style="fill:#333333;fill-opacity:0.70196078;stroke-width:1.8455869" />
+       y="1136"
+       ry="0.010495693"
+       style="fill:#333333;fill-opacity:0.701961;stroke-width:2.05677" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:0.63921571;stroke:none;stroke-width:1;"
@@ -196,7 +196,7 @@
     <g
        style="opacity:1"
        id="text2"
-       transform="matrix(1.3478261,0,0,1.3478261,-3.4469406,163.71821)">
+       transform="matrix(1.3478261,0,0,1.3478261,-3.4469406,86.718214)">
       <text
          id="text39"
          y="837.2262"
@@ -225,11 +225,11 @@
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2021/artwork/sotm_2021-logo-small.png"
        xlink:href="sotm_2021-logo-small.png"
-       y="480"
-       x="1608"
-       id="image1861"
-       preserveAspectRatio="none"
+       width="308"
        height="326"
-       width="308" />
+       preserveAspectRatio="none"
+       id="image1861"
+       x="1608"
+       y="480" />
   </g>
 </svg>
