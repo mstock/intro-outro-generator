@@ -70,17 +70,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4921875"
-     inkscape:cx="960"
-     inkscape:cy="540"
+     inkscape:zoom="44.547727"
+     inkscape:cx="36.75805"
+     inkscape:cy="1060.949"
      inkscape:document-units="px"
      inkscape:current-layer="layer_background"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1918"
-     inkscape:window-height="1178"
-     inkscape:window-x="1280"
+     inkscape:window-width="1278"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
@@ -161,25 +161,25 @@
       <image
          sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2021/artwork/logo_sotm-bg.svg"
          xlink:href="logo_sotm-bg.svg"
-         y="-448"
-         x="0"
-         id="image1998"
-         height="1920"
-         width="1920"
+         preserveAspectRatio="none"
          inkscape:svg-dpi="96"
-         preserveAspectRatio="none" />
+         width="1920"
+         height="1920"
+         id="image1998"
+         x="0"
+         y="-448" />
     </g>
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2021/artwork/logo_sotm-bg2.svg"
        xlink:href="logo_sotm-bg2.svg"
-       clip-path="url(#clipPath4756)"
-       y="-448"
-       x="0"
-       id="image2893"
-       height="1920"
-       width="1920"
+       preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       preserveAspectRatio="none" />
+       width="1920"
+       height="1920"
+       id="image2893"
+       x="0"
+       y="-448"
+       clip-path="url(#clipPath4756)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:0.504587;stroke:none"
@@ -265,22 +265,22 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:64.696px;line-height:120%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f4f5;fill-opacity:1;stroke:none">$title</flowPara></flowRoot>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:0.63921571;stroke:none;"
-       x="357.19531"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.639216;stroke:none"
+       x="30.96875"
        y="1040.1562"
        id="text2992-5-5-3-3"><tspan
          sodipodi:role="line"
          id="tspan4325"
-         x="357.19531"
+         x="30.96875"
          y="1040.1562">SotM Logo: Julie Mattelaer, CC BY-SA 4.0</tspan></text>
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2021/artwork/sotm_2021-logo-small.png"
        xlink:href="sotm_2021-logo-small.png"
-       width="308"
-       height="326"
-       preserveAspectRatio="none"
-       id="image1870"
+       y="-24"
        x="1608"
-       y="-24" />
+       id="image1870"
+       preserveAspectRatio="none"
+       height="326"
+       width="308" />
   </g>
 </svg>
