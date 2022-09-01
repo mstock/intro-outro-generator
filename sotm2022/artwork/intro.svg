@@ -74,7 +74,7 @@
      inkscape:cx="960"
      inkscape:cy="540"
      inkscape:document-units="px"
-     inkscape:current-layer="layer_background"
+     inkscape:current-layer="text1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -159,12 +159,12 @@
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2022/artwork/Florence_Duomo_from_Michelangelo_hill.jpg"
        xlink:href="Florence_Duomo_from_Michelangelo_hill.jpg"
-       width="1920"
-       height="1392.406"
-       preserveAspectRatio="none"
-       id="image1973"
+       y="-286.991"
        x="0"
-       y="-286.991" />
+       id="image1973"
+       preserveAspectRatio="none"
+       height="1392.406"
+       width="1920" />
     <rect
        style="fill:#000000;fill-opacity:0.75;fill-rule:evenodd;stroke-width:3.51272"
        id="rect1977"
@@ -223,7 +223,7 @@
            x="76.512093"
            y="831.92181"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:47.4839px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f4f5;fill-opacity:1;stroke:none"
-           id="tspan859">Firenze</tspan><tspan
+           id="tspan859">Firenze, Italy and Online</tspan><tspan
            sodipodi:role="line"
            x="76.512093"
            y="852.44623"
@@ -232,13 +232,13 @@
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2022/artwork/sotm_2022.svg"
        xlink:href="sotm_2022.svg"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="384"
-       width="146.87753"
-       height="259.13843"
-       id="image471"
+       y="4"
        x="32"
-       y="4" />
+       id="image471"
+       height="259.13843"
+       width="146.87753"
+       inkscape:svg-dpi="384"
+       preserveAspectRatio="none" />
     <flowRoot
        xml:space="preserve"
        id="text2"

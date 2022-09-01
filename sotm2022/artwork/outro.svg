@@ -100,9 +100,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.875"
      inkscape:cx="960"
-     inkscape:cy="677.14286"
+     inkscape:cy="540"
      inkscape:document-units="px"
-     inkscape:current-layer="layer_background"
+     inkscape:current-layer="text1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -180,12 +180,12 @@
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2022/artwork/Florence_Duomo_from_Michelangelo_hill.jpg"
        xlink:href="Florence_Duomo_from_Michelangelo_hill.jpg"
-       width="1920"
-       height="1392.406"
-       preserveAspectRatio="none"
-       id="image791"
+       y="217.009"
        x="0"
-       y="217.009" />
+       id="image791"
+       preserveAspectRatio="none"
+       height="1392.406"
+       width="1920" />
     <rect
        id="rect_banderole_1"
        width="1920"
@@ -231,7 +231,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:47.4839px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f4f5;fill-opacity:1;stroke:none"
            y="889.4585"
            x="71.443321"
-           sodipodi:role="line">Firenze</tspan><tspan
+           sodipodi:role="line">Firenze, Italy and Online</tspan><tspan
            id="tspan853"
            y="909.98291"
            x="71.443321"
@@ -358,12 +358,12 @@
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2022/artwork/sotm_2022.svg"
        xlink:href="sotm_2022.svg"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="384"
-       width="146.87801"
-       height="259.138"
-       id="image422"
+       y="508"
        x="32"
-       y="508" />
+       id="image422"
+       height="259.138"
+       width="146.87801"
+       inkscape:svg-dpi="384"
+       preserveAspectRatio="none" />
   </g>
 </svg>
