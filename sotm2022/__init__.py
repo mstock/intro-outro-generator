@@ -156,11 +156,6 @@ def debug():
 		outroFrames
 	)
 
-	render('pause.svg',
-		'../pause.mkv',
-		pauseFrames
-	)
-
 def tasks(queue, args, idlist, skiplist):
 	# iterate over all events extracted from the schedule xml-export
 	for event in events(scheduleUrl):
