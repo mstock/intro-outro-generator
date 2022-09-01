@@ -24,15 +24,17 @@ def outroFrames(params):
 	for i in range(0, frames):
 		yield (
 			('banderole', 'style', 'opacity', "%.4f" % easeOutCubic(i, 0, 1, frames) ),
-			('license', 'style', 'opacity', 0)
+			('license', 'style', 'opacity', 0),
+			('recordedby', 'style', 'opacity', 0)
 		)
 
-	# 2 Sekunde Fadein Lizenz-Logo
+	# 2 Sekunde Fadein Lizenz-Logo/Recorded by
 	frames = 2*fps
 	for i in range(0, frames):
 		yield (
 			('banderole', 'style', 'opacity', 1),
-			('license', 'style', 'opacity', "%.4f" % (float(i)/frames))
+			('license', 'style', 'opacity', "%.4f" % (float(i)/frames)),
+			('recordedby', 'style', 'opacity', "%.4f" % (float(i)/frames))
 		)
 
 	# 4 Sekunde stehen bleiben
@@ -40,7 +42,8 @@ def outroFrames(params):
 	for i in range(0, frames):
 		yield (
 			('banderole', 'style', 'opacity', 1),
-			('license', 'style', 'opacity', 1)
+			('license', 'style', 'opacity', 1),
+			('recordedby', 'style', 'opacity', 1)
 		)
 
 def introFrames(params):
