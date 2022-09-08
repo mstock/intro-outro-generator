@@ -70,17 +70,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.875"
+     inkscape:zoom="0.8953125"
      inkscape:cx="960"
      inkscape:cy="540"
      inkscape:document-units="px"
-     inkscape:current-layer="text1"
+     inkscape:current-layer="layer_background"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1918"
      inkscape:window-height="1178"
-     inkscape:window-x="1280"
+     inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
@@ -147,7 +147,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -157,14 +157,14 @@
      id="layer_background"
      transform="translate(0,28)">
     <image
-       sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2022/artwork/Florence_Duomo_from_Michelangelo_hill.jpg"
-       xlink:href="Florence_Duomo_from_Michelangelo_hill.jpg"
-       y="-286.991"
-       x="0"
-       id="image1973"
+       sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2022/artwork/Florence_Duomo_from_Michelangelo_Hill-modified-original.jpg"
+       xlink:href="Florence_Duomo_from_Michelangelo_Hill-modified-original.jpg"
+       y="-472.39999"
+       x="-86.932999"
+       id="image1222"
        preserveAspectRatio="none"
-       height="1392.406"
-       width="1920" />
+       height="1570.4003"
+       width="2093.8669" />
     <rect
        style="fill:#000000;fill-opacity:0.75;fill-rule:evenodd;stroke-width:3.51272"
        id="rect1977"
@@ -232,13 +232,13 @@
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2022/artwork/sotm_2022.svg"
        xlink:href="sotm_2022.svg"
-       y="4"
-       x="32"
-       id="image471"
-       height="259.13843"
-       width="146.87753"
+       preserveAspectRatio="none"
        inkscape:svg-dpi="384"
-       preserveAspectRatio="none" />
+       width="146.87753"
+       height="259.13843"
+       id="image471"
+       x="32"
+       y="4" />
     <flowRoot
        xml:space="preserve"
        id="text2"
@@ -266,6 +266,6 @@
          sodipodi:role="line"
          id="tspan4325"
          x="30.96875"
-         y="1040.1562">SotM Logo: Feye Andal, CC BY-SA 4.0; Background: Petar Milošević, CC BY-SA 4.0</tspan></text>
+         y="1040.1562">SotM Logo: Feye Andal, CC BY-SA 4.0; Background: Based on &quot;Florence Duomo from Michelangelo Hill&quot; by Petar Milošević, CC BY-SA 4.0</tspan></text>
   </g>
 </svg>

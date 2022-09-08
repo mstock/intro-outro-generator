@@ -98,7 +98,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.875"
+     inkscape:zoom="0.8953125"
      inkscape:cx="960"
      inkscape:cy="540"
      inkscape:document-units="px"
@@ -108,7 +108,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1918"
      inkscape:window-height="1178"
-     inkscape:window-x="1280"
+     inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0">
@@ -168,7 +168,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,14 +178,14 @@
      id="layer_background"
      transform="translate(0,-476)">
     <image
-       sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2022/artwork/Florence_Duomo_from_Michelangelo_hill.jpg"
-       xlink:href="Florence_Duomo_from_Michelangelo_hill.jpg"
-       y="217.009"
-       x="0"
+       sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2022/artwork/Florence_Duomo_from_Michelangelo_Hill-modified-original.jpg"
+       xlink:href="Florence_Duomo_from_Michelangelo_Hill-modified-original.jpg"
+       y="31.6"
+       x="-86.932999"
        id="image791"
        preserveAspectRatio="none"
-       height="1392.406"
-       width="1920" />
+       height="1570.4"
+       width="2093.8669" />
     <rect
        id="rect_banderole_1"
        width="1920"
@@ -354,7 +354,7 @@
          x="30.96875"
          y="1544.1562"
          id="url-6"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:80%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:0.639216;stroke:none">SotM Logo: Feye Andal, CC BY-SA 4.0; Background: Petar Milošević, CC BY-SA 4.0</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:80%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:0.639216;stroke:none">SotM Logo: Feye Andal, CC BY-SA 4.0; Background: Based on &quot;Florence Duomo from Michelangelo Hill&quot; by Petar Milošević, CC BY-SA 4.0</tspan></text>
     <image
        sodipodi:absref="/home/ms/workspace/av/intro-outro-generator/sotm2022/artwork/sotm_2022.svg"
        xlink:href="sotm_2022.svg"
