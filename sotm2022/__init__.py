@@ -143,7 +143,7 @@ def pauseFrames(params):
 def debug():
 	render(
 		'intro.svg',
-		'../intro.mkv',
+		'../intro.ts',
 		introFrames,
 		{
 			'$id': 10069,
@@ -155,7 +155,7 @@ def debug():
 
 	render(
 		'outro.svg',
-		'../outro.mkv',
+		'../outro.ts',
 		outroFrames
 	)
 
@@ -174,7 +174,7 @@ def tasks(queue, args, idlist, skiplist):
 			url = sessionsUrl.format(sessionCode)
 			queue.put(Rendertask(
 				infile = 'intro.svg',
-				outfile = str(event['id'])+".mkv",
+				outfile = str(event['id'])+".ts",
 				sequence = introFrames,
 				parameters = {
 					'$id': event['id'],
@@ -189,7 +189,7 @@ def tasks(queue, args, idlist, skiplist):
 		# place a task for the outro into the queue
 		queue.put(Rendertask(
 			infile = 'outro.svg',
-			outfile = 'outro.mkv',
+			outfile = 'outro.ts',
 			sequence = outroFrames
 		))
 
@@ -197,7 +197,7 @@ def tasks(queue, args, idlist, skiplist):
 		# place the pause-sequence into the queue
 		queue.put(Rendertask(
 			infile = 'pause.svg',
-			outfile = 'pause.mkv',
+			outfile = 'pause.ts',
 			sequence = pauseFrames
 		))
 
