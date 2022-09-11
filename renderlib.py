@@ -194,7 +194,7 @@ def rendertask_video(task):
             audio_input = '-i {0} '.format(task.audiofile)
         cmd += audio_input * args.audio_streams
 
-        cmd += '-map 0:0 -c:v mpeg2video -q:v 2 -aspect 16:9 '
+        cmd += '-map 0:0 -c:v:0 libx264 -pix_fmt yuv420p -crf:0 23 -profile:0 high -level:0 4.1 -aspect 16:9 '
 
         if task.audiofile is None:
             audio_map = '-map {0}:0 '
